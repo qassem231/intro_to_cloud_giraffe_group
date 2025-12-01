@@ -5,8 +5,8 @@ This repository contains assignments and projects developed by Group GIRAFFE as 
 
 - Qassem Nassar – 214026841  
 - Asaad Bdarneh – 212015564
-- Qosay Barmke –   
-- Ibrahem Aamar –   
+- Qosay Barmke –   212699672
+- Ibrahem Aamar –   212699409
 
 ## Repository Content
 
